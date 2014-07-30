@@ -1,0 +1,105 @@
+body {
+    height: 100%;
+    background-color: #d7f746;
+    font-family: monospace;
+
+}
+
+.step{
+    text-align: center;
+    width: 44%;
+    padding: 1%;
+    margin: 1%;
+    float: left;
+    min-height: 300px;
+    border-radius: 25px;
+    border: 1px solid #303030;
+}
+.download {
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #000000;
+    padding: 12px 24px;
+    background: -moz-linear-gradient(
+        top,
+        #00ccff 0%,
+        #00bbff);
+    background: -webkit-gradient(
+        linear, left top, left bottom,
+        from(#00ccff),
+        to(#00bbff));
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    -moz-box-shadow:
+        0px 1px 7px rgba(000,000,000,0.5),
+        inset 0px 0px 5px rgba(102,255,0,0.6);
+    -webkit-box-shadow:
+        0px 1px 7px rgba(000,000,000,0.5),
+        inset 0px 0px 5px rgba(102,255,0,0.6);
+    box-shadow:
+        0px 1px 7px rgba(000,000,000,0.5),
+        inset 0px 0px 5px rgba(102,255,0,0.6);
+    text-shadow:
+        0px -1px 3px rgba(255,255,255,0.8),
+        0px 1px 0px rgba(255,255,255,0.3);
+}
+
+
+
+
+
+
+
+/* Der Popup Container*/
+.ga-secra-widget-cont {
+
+    background-color: #303030;
+    border-radius: 12px;
+    color:#ffffff;
+}
+
+/* Der Popup Container wenn Google Analytics nicht deaktiviert wurde*/
+.activated {
+
+    background-color: #a0ff67;
+    color:#303030;
+}
+
+/* Der Popup Container wenn Google Analytics deaktiviert wurde*/
+.deactivated {
+
+    background-color: #ff6e47;
+    color:#303030;
+
+}
+
+/* Der Popup Container wenn Google Analytics bereits deaktiviert wurde*/
+.already {
+
+    background-color: #faff5e;
+    color:#303030;
+
+}
+
+/* Der "Ja" Button*/
+.yes_button {
+
+    margin: 5px;
+    border-radius: 5px;
+}
+
+/* Der "Nein" Button*/
+.no_button {
+       margin: 5px;
+    border-radius: 5px;
+}
+
+
+/* Der "OK" Button*/
+.ok_button {
+    cursor: pointer;
+}
+

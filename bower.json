@@ -1,0 +1,26 @@
+{
+  "name": "GA-Widget",
+  "version": "0.0.1",
+  "authors": [
+    "Jens Laur <laur@secra.de>"
+  ],
+  "description": "Widget to give a better feedback when deactivating Google Analytics",
+  "main": "gaSecraWidget.js",
+  "keywords": [
+    "google",
+    "widget",
+    "analytics",
+    "secra"
+  ],
+  "license": "MIT",
+  "homepage": "secra.github.io/ga-widget/example/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".htaccess",
+    "info.xml"
+  ]
+}
