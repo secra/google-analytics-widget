@@ -88,18 +88,18 @@ body {
 .yes_button {
 
     margin: 5px;
-    border-radius: 5px;
+
 }
 
 /* Der "Nein" Button*/
 .no_button {
        margin: 5px;
-    border-radius: 5px;
+
 }
 
 
 /* Der "OK" Button*/
 .ok_button {
-    cursor: pointer;
+
 }
 
