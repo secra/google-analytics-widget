@@ -7,7 +7,7 @@ The Google Analytics Widget allows you to display a nice Widget when the user de
 
 Show Don't Tell
 ===============
- [Demo & usage ](http://secra.github.io/ga-widget/example/index.html)
+ [Demo & usage ](http://secra.github.io/google-analytics-widget/example/index.html)
 
 
 How To Install It
@@ -78,7 +78,7 @@ How To Use It
 Options
 ========
 
-By now the only thing that can be configured are the Appereance over CSS and <br>the help text over the "data-text" Attribute in the link. <br>By default the help text is empty.
+By now the only thing that can be configured are the appearance over CSS and <br>the help text over the "data-text" Attribute in the link. <br>By default the help text is empty.
 
 
 License
