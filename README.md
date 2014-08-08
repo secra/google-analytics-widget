@@ -42,7 +42,7 @@ How To Use It
 ```
 ###2. Style It
 
-    ```css
+ ```css
 
     /* The Popup Container*/
     .ga-secra-widget-cont {
