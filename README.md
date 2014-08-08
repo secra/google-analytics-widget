@@ -17,7 +17,7 @@ How To Install It
 You can install it via script tag
 
  ``` html
- <script type="text/javascript" src="gaSecraWidget.js"></script>;
+ <script type="text/javascript" src="gaSecraWidget.js"></script>
  ```
 
 How To Use It
