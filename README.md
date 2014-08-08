@@ -14,18 +14,11 @@ How To Install It
 =============
 
 
-You can install it via script
+You can install it via script tag
 
  ``` html
  <script type="text/javascript" src="gaSecraWidget.js"></script>;
  ```
-
-or install it via bower
-
-
-```bash
-bower install ga-widget
-```
 
 How To Use It
 =============
